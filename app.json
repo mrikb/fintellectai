@@ -15,14 +15,14 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "app.rork.alpaca-paper-trading-simulator"
+      "bundleIdentifier": "com.rork.alpacapapersimulator"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "app.rork.alpaca-paper-trading-simulator"
+      "package": "com.rork.alpacapapersimulator"
     },
     "web": {
       "favicon": "./assets/images/favicon.png"
